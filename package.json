@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    
+  "type": "module",
+
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
